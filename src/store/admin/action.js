@@ -9,7 +9,7 @@ export const login = (data) => (dispatch) => {
     .then((res) => {
       console.log(res.data);
       if (res.data.status) {
-        Toast("success", "You have successfully logged in Rayzi.");
+        Toast("success", "You have successfully logged in Zorona.");
         setTimeout(() => {
           window.location.href = "/admin/dashboard";
         }, 3000);
