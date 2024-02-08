@@ -197,7 +197,7 @@ const Setting = (props) => {
     return validNumber;
   };
 
-  const option = [{ name: "UPI" }, { name: "Paytm" }, { name: "Banking" }];
+  const option = [{ name: "UPI" }, { name: "Paytm" }, { name: "Banking" }, { name: "Binance" }];
 
   return (
     <>
