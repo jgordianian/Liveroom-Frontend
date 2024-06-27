@@ -1,1 +1,1 @@
-Frontend source coe for Android Liveroom app
+Frontend source code for Android Liveroom app
