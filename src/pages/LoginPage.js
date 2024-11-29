@@ -41,10 +41,10 @@ const LoginPage = (props) => {
               <div class="card login-box-container">
                 <div class="card-body">
                   <div class="authent-logo mb-4">
-                    <span class="text-danger h1">Zorona</span>
+                    <span class="text-danger h1">app</span>
                   </div>
                   <div class="authent-text">
-                    {/* <p>Welcome to Zorona</p> */}
+                    {/* <p>Welcome to app</p> */}
                     <p>
                       Enter your email address and password to access admin
                       panel.

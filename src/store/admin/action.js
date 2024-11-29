@@ -9,7 +9,7 @@ export const login = (data) => (dispatch) => {
     .then((res) => {
       console.log(res.data);
       if (res.data.status) {
-        Toast("success", "You have successfully logged in Zorona.");
+        Toast("success", "You have successfully logged in app.");
         setTimeout(() => {
           window.location.href = "/admin/dashboard";
         }, 3000);
